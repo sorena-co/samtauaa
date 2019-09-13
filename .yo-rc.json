@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ir.samta.uaa"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "uaa",
+    "baseName": "samtauaa",
+    "packageName": "ir.samta.uaa",
+    "packageFolder": "ir/samta/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWE4NzlhNTQwMmM3YjQxMmJjNDZjZGFjYzc5MGZmMDIxOGZiZmFhNWE4MDhjZTgyMWZhYjA0YzVjOWVhYjFhMTMxZTMzOTgxZDM1ZTE2ZmVhNzFmYzI5Y2YzODdjZTU1NzZiOTdlOTM3ZjA0Yzk0YTg3MmU1Y2Q0NzdkZTUwNzc=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
